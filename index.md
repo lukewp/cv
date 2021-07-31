@@ -43,7 +43,7 @@ author_profile: true
 
 ### General/Business Tools:  
 - GZA-level Genius with the Microsoft and Google Office Suites
-- Functionally Competent with Adobe CS, Gimp, Audacity, and Final Cut
+- Functionally Competent with Adobe Creative Suite, Gimp, Audacity, and Final Cut
 - Hates Quickbooks
 - OmniOScient: Knows Windows, Mac, and Linux (Native and Virtualized/Cloud Environments)
 
@@ -84,7 +84,7 @@ author_profile: true
 - Leads, supports, and advocates for a team of 80+ researchers and analysts collecting and presenting data-backed insights to support U.S. government’s foreign communications and media strategy on issues of critical national interest.
 - Develops and delivers written briefs and oral presentations to senior White House, State Department, National Security Council, Department of Homeland Security, Defense Department officials.
 - Shapes long-term strategic communications and media plans supporting U.S. national foreign policy.
-- Responsible for managing $10m+ in multi-channel marketing: planning, executing, measuring impact
+- Responsible for managing $10m+ in multi-channel marketing: planning, executing, measuring impact of marketing efforts across mediums including search, display, native, social, and over-the-top digital video, broadcast radio, and out-of-home.
 - Leads Department towards a proactive, audience-driven, policy impact-focused communications approach.
 - <b>Policy:</b>
   - Led research, marketing, and analytic support for U.S. government communications on breaking global issues including the outbreak of COVID-19; geopolitical and national security crises; highly-dynamic events like United Nations meetings and foreign trips for U.S. government principal figures.
@@ -94,7 +94,7 @@ author_profile: true
   - Led establishment of and oversees two offices comprising a ~$30 million annual budget within Global Public Affairs (GPA) focused on audience and media research and analytics, worldwide; led and managed through two consecutive years of capacity-doubling and the offices’ formal hierarchical elevation.
   - Organized two offices’ operations and procurement processes; schedules and prioritizes work; establishes overall policies, practices, goals; provides technical requirements and descriptions of work to be accomplished.
 - <b>Skills and Specific Expertise:</b>
-  - Advises on international media engagement, multi-channel advertising, and audience research strategy; distills and presents insights to shape foreign policy and business strategy.
+  - Advises on international media engagement, multi-channel advertising and integrated marketing strategy, creative content direction, and audience research strategy; distills and presents insights to shape foreign policy and business strategy.
   - Develops and edits written analytic products presenting executive recommendations grounded in technical and scientific research and analysis processes.
   - Oversees development and implementation of an overarching and comprehensive audience research and analysis strategy to measure and sharpen the bureau’s earned, owned, shared, paid communications programs advancing U.S. foreign policy goals.
   - Responsible for the overall evaluation strategy measuring impact of bureau programs and products on international public opinion of the United States.
@@ -110,7 +110,7 @@ author_profile: true
 - Served on interbureau merger task force: over a six month period designed, implemented, helped lead major change initiative to merge the Bureaus of Public Affairs and International Information Programs -- together comprising nearly $100 million in annual budget, with over 400 staff on five continents. Skills honed in this effort included organizational planning (budget, resources, personnel), change management/leadership, negotiation, internal and external communications, congressional lobbying, and demanded extreme delicacy, flexibility, and dedication to see through.
 - Led research effort supporting White House communications strategies for an Israeli-Palestinian peace deal.
 - Led research efforts supporting State Department-wide international communications campaigns on Korean Denuclearization, Iran Nuclear Sanctions, and the South China Sea.
-- Led IIP Office of Analytics’ comprehensive evaluations of major Department efforts, determining costs, returns, successes and failures of IIP’s Youth Networks and ShareAmerica programs, the Department’s overhaul of its Embassy Website platforms, and a 10-year retrospective report on the use, utility, and proliferation of social media at the Department.
+- Led IIP Office of Analytics’ comprehensive evaluations of major Department efforts, determining costs, returns, successes and failures of IIP’s Youth Networks and ShareAmerica programs, the Department’s overhaul of its Embassy Website platforms, and a 10-year retrospective report on the use, utility, and proliferation of social media including Facebook, Instagram, and Twitter at the Department.
 - Procured contract for and initially administered Amazon Web Services cloud systems: managing firewall, virtual private cloud, databases (RDS, RedShift, and Aurora), EC2 instances; familiarized data science team with cloud administration principles; was responsible for identity access management (IAM) of cloud systems before transitioning day-to-day management responsibility to subordinate technical team.
 - Responsible for cyber risk management and policy compliance of cloud-based prototyping system; implemented cyber security auditing protocol and brought systems into compliance with policy.
 - Led modernization of the Spokesperson’s measurement approach to include social and digital media metrics; clarification of objectives and target audiences for communications activities.
@@ -129,7 +129,7 @@ author_profile: true
 - Served in thought leadership role, producing internal research, writing corporate blog posts, filling conference speaking roles, and gave guidance in big data and analytics strategy for holding company, WPP.
 - Established Amazon Web Services cloud contract and led development team to embrace off-premises technology; implemented Nessus cyber security auditing protocol and rigorously reviewed platform exposure; responsible for identity access management (IAM) for internal user base.
 - Designed data research projects, wrote custom data collection and analysis software using R, python, and SQL to support research efforts. Led prototyping and construction of systems to combine open source data and data proprietary to clients and other WPP network entities to deliver game-changing business insights to clients. 
-- Performed analysis using a variety of strategies, synthesized and delivered insights to C-suite clients and prospects for companies like Ford, Intel, Bank of America, Oracle, Fitbit, Dell, Chipotle and coached staff to do the same..
+- Performed analysis using a variety of strategies, synthesized and delivered insights to C-suite clients and prospects for companies like Ford, Intel, Bank of America, Oracle, Fitbit, Dell, Twitter, Chipotle and coached staff to do the same.
 - Named to Holmes Report’s The Innovator 25 North America in 2015, recognizing efforts to revolutionize and grow Burson-Marsteller’s analytics and research capabilities while creating new revenue streams.
 [↩](#a3)
 
