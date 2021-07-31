@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luke Peterson"
+title                    : "Luke Peterson CV"
 title_separator          : "-"
-subtitle                 : "curriculum vitae" # site tagline that appears below site title in masthead
+subtitle                 : "Latin, *'impossible to reduce to a single page'*" # site tagline that appears below site title in masthead
 name                     : "Luke Peterson"
 description              : # ""
 url                      : "http://cv.lukepeterson.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "lukewp/lukewp.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "curriculum vitae" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Luke Peterson"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "(He/Him) \n\n- Builds resilient organizations \n- Leads teams into new terrain \n- Creates innovative strategies \n- Builds and manages through challenges and change \n\nLuke’s professional strengths are his thoughtful leadership, attention to detail, consultative approach, and ability to solve complex problems. He adapts his approach to fit the need; he designs strategies and systems, and assembles teams to tackle complex challenges; he brokers new engagements through identification of new markets for tools and services; he harnesses emerging technology to transform reactive organizations into nimble, pro-active positions while managing risk.\n\nLuke has wide-ranging expertise covering organizational design and change leadership, coaching, strategic communications, social science research, geospatial database architecture, and data science."
+  bio              : "(He/Him) \n\n- Builds resilient organizations \n- Leads teams into new terrain \n- Creates innovative strategies \n- Builds and manages through challenges and change \n\nLuke is highly adaptive, his strengths are thoughtful leadership, attention to detail, and understanding of complex problems. He has brokered new engagements through empathetic consultation, finding new applications and markets for tools and services; he harnesses emerging technology to adapt reactive organizations into nimble, pro-active positions while managing risk.\n\nLuke's wide-ranging expertise covers organizational design and change leadership, coaching, strategic communications, social science research, geospatial database architecture, and data science."
   location         : # "Washington"
   email            : "luke.peterson@gmail.com"
 #  links:
