@@ -31,29 +31,6 @@ author_profile: true
 - [U.S. ARMY WAR COLLEGE, Carlisle Barracks, PA: Master of Strategic Studies](https://www.armywarcollege.edu/programs/mel_1.cfm) (Distinguished Graduate)
 - [TRINITY UNIVERSITY, San Antonio, TX: B.A. Political Science](https://www.trinity.edu/academics/departments/political-science/political-science-ba)
 
-## ACTIVITIES & AWARDS
-- Awardee, U.S. State Department Superior Honor Award, 9/2020
-- Panelist, [Data Driven Public Diplomacy, Six Years Later](https://www.state.gov/acpd-official-meeting-minutes-june-23-2020/), U.S. Advisory Commission on Public Diplomacy (ACPD), 6/2020
-- Awardee, U.S. State Department Meritorious Honor Award, 7/2018
-- Moderator, IIP Analytics: Research Evaluation and Learning, Research, Analytics, and Learning Summit, ACPD, 2/2018
-- Panelist, [Information Bubbles, Cognitive Bias, and Communications](https://awpagesociety.com/attachments/120898c4544521ec6cbb765a6c48d33f42007986/store/bfdeeb7f5845b22e6bfbaaec1e57123057522bf452d4ccc21dbdce0985d3/Agenda+-+2017+Page+Up+2017+Annual+Conference_as+of+9.13.2017.pdf), Page Up 2017, Arthur W. Page Society, 10/2017
-- Panelist, [The State and Art of Digital Diplomacy, First Monday Forum](http://pdaa.publicdiplomacy.org/?p=1556), USC/Public Diplomacy Council, 9/2017
-- Presenter, [Inoculating Public Opinion Against Disinformation](https://web.archive.org/web/20171208134655/http://pages.crimsonhexagon.com/CoLab3.html), Crimson Hexagon CoLab 3.0, 7/2017
-- Author, [Three Americas Study: A Re-Examination of the 2014 Pew Political Polarization Survey](https://lwp-viz.shinyapps.io/usfactors/), 3/2017
-- Presenter, Public Diplomacy in the Information Age, U.S. State Department Public Affairs Officers’ Conference, 11/2016
-- Panelist, Mobilizing Populations Towards Action, Fitbit Captivate 2015, 10/2015
-- Awardee, [The Innovator 25 North America 2015](https://www.holmesreport.com/ranking-and-data/innovator-25/2015/innovator-25-na-2015), The Holmes Report, 9/2015
-- Keynote, Making ‘Big Data’ Meaningful: Putting Analytics Into Action, PR/Social Media Measurement, 2/2014
-- Instructor, MS Access 101 and 202, Creating Beautiful Reports, Vote Goals, New Organizing Institute, from 2009-2013
-- Instructor, Shoring up the Vote: Targeting, Field, and GOTV, CBC Boot Camp, from 2009-2013
-- Instructor, Geographic Targeting for Campaigns, Democratic National Committee, from 2011-2012
-- Presenter, Redistricting: What it is, How it Works, Why it’s Important, NOI, America Votes, State Voices, 2010-2011
-- Instructor, Data Visualization and Advanced Data Analysis with ArcGIS and R, SEIU Retreat, 3/2010
-- Instructor, Pushing Excel and Access to the Limits of Common Sense, Analyst Institute, 3/2010
-- Presenter, Obama Campaign Technology: Tools for Trade Unionists, AFT Public Employees, 6/2009
-- Presenter, National Reporting Through GIS, Analyst Institute Retreat, 6/2009
-- Keynote, Exploring the Obama Campaign’s Data Crunching Advantage, WebTrends Engage, 3/2009
-
 ## PROFICIENCIES
 
 | Data Science Concepts: | Languages: | GIS: |
@@ -70,7 +47,39 @@ author_profile: true
 - Hates Quickbooks
 - OmniOScient: Knows Windows, Mac, and Linux (Native and Virtualized/Cloud Environments)
 
-## Details for the bots and the truly curious:
+## ACTIVITIES:
+- Troop Leader, Girl Scouts Daisies Troop #42103, 2020-Present
+- Pinewood Derby Race Master, Takoma Park MD Cub Scout Pack 33, 2018-Present
+- Finisher, Ironman Florida 2013, Savageman 2013, Marine Corps Marathon 2016 & 2019, Great Chesapeake Bay Swim 2014
+
+## SPEAKING AND WRITING: 
+- Panelist, [Data Driven Public Diplomacy, Six Years Later](https://www.state.gov/acpd-official-meeting-minutes-june-23-2020/), U.S. Advisory Commission on Public Diplomacy (ACPD), 6/2020
+- Moderator, IIP Analytics: Research Evaluation and Learning, Research, Analytics, and Learning Summit, ACPD, 2/2018
+- Panelist, [Information Bubbles, Cognitive Bias, and Communications](https://awpagesociety.com/attachments/120898c4544521ec6cbb765a6c48d33f42007986/store/bfdeeb7f5845b22e6bfbaaec1e57123057522bf452d4ccc21dbdce0985d3/Agenda+-+2017+Page+Up+2017+Annual+Conference_as+of+9.13.2017.pdf), Page Up 2017, Arthur W. Page Society, 10/2017
+- Panelist, [The State and Art of Digital Diplomacy, First Monday Forum](http://pdaa.publicdiplomacy.org/?p=1556), USC/Public Diplomacy Council, 9/2017
+- Presenter, [Inoculating Public Opinion Against Disinformation](https://web.archive.org/web/20171208134655/http://pages.crimsonhexagon.com/CoLab3.html), Crimson Hexagon CoLab 3.0, 7/2017
+- Author, [Three Americas Study: A Re-Examination of the 2014 Pew Political Polarization Survey](https://lwp-viz.shinyapps.io/usfactors/), 3/2017
+- Presenter, Public Diplomacy in the Information Age, U.S. State Department Public Affairs Officers’ Conference, 11/2016
+- Panelist, Mobilizing Populations Towards Action, Fitbit Captivate 2015, 10/2015
+- Keynote, Making ‘Big Data’ Meaningful: Putting Analytics Into Action, PR/Social Media Measurement, 2/2014
+- Keynote, Exploring the Obama Campaign’s Data Crunching Advantage, WebTrends Engage, 3/2009
+
+## AWARDS & RECOGNITION:
+- U.S. State Department Superior Honor Award, 9/2020
+- U.S. State Department Meritorious Honor Award, 7/2018
+- [The Innovator 25 North America 2015](https://www.holmesreport.com/ranking-and-data/innovator-25/2015/innovator-25-na-2015), The Holmes Report, 9/2015
+
+## COURSES & SEMINARS TAUGHT:
+- MS Access 101 and 202, Creating Beautiful Reports, Vote Goals, New Organizing Institute, from 2009-2013
+- Shoring up the Vote: Targeting, Field, and GOTV, CBC Boot Camp, from 2009-2013
+- Geographic Targeting for Campaigns, Democratic National Committee, from 2011-2012
+- Redistricting: What it is, How it Works, Why it’s Important, NOI, America Votes, State Voices, 2010-2011
+- Data Visualization and Advanced Data Analysis with ArcGIS and R, SEIU Retreat, 3/2010
+- Pushing Excel and Access to the Limits of Common Sense, Analyst Institute, 3/2010
+- Obama Campaign Technology: Tools for Trade Unionists, AFT Public Employees, 6/2009
+- National Reporting Through GIS, Analyst Institute Retreat, 6/2009
+
+## Additional Details for the bots and the truly curious:
 <b id="f1">U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019-Present</b>
 - Leads, supports, and advocates for a team of 80+ researchers and analysts collecting and presenting data-backed insights to support U.S. government’s foreign communications and media strategy on issues of critical national interest.
 - Develops and delivers written briefs and oral presentations to senior White House, State Department, National Security Council, Department of Homeland Security, Defense Department officials.
