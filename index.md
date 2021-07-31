@@ -58,7 +58,7 @@ author_profile: true
 
 ### Concepts:  
 - Natural Language Processing 
-- Cluster/Factor Analysis
+- Cluster and Factor Analysis
 - Regression Analysis
 - Quantitative and Qualitative Research Design
 
