@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 locale                   : "en-US"
 title                    : "Luke Peterson CV"
 title_separator          : "-"
-subtitle                 : "Latin, *'impossible to reduce to a single page'*" # site tagline that appears below site title in masthead
+subtitle                 : "noun from Latin: 'impossibly long resume including many buzzwords designed to improve NLP score'" # site tagline that appears below site title in masthead
 name                     : "Luke Peterson"
 description              : # ""
 url                      : "http://cv.lukepeterson.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
