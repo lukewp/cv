@@ -84,25 +84,25 @@ author_profile: true
 - Windows, Mac, and Linux Administration (Native and Virtualized/Cloud Environments)
 
 ### Details:
-<b id="f1">1</b> U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019-Present
-- Holds primary responsibility for collecting and presenting data-backed insights to support U.S. government’s foreign communications and media strategy on all issues of critical national interest.
-- Prepares written briefs and delivers oral presentations on a variety of subjects to senior White House, State Department, Defense Department officials, including (at DOS) the Secretary, Deputy Secretary, Under Secretaries, and Assistant Secretaries of State.
-- Shapes long-term strategic communications and media plans for critical U.S. national foreign policy themes, leads institutional pivot from reactive posture to proactive, audience-driven approach.
-- Led analytical support for U.S. government communications on urgent global issues including the 2019 crisis in Venezuela, 2019 security standoff with Iran, 2020 Novel Coronavirus outbreak, 2020 Israeli-Palestinian Peace Plan, and recurring fast-moving events such as the annual United Nations General Assembly meeting and all Secretary of State foreign and domestic travel.
-- Led analytical support for Department communications on longer-term issue and country campaigns including 5G telecommunications, the Central American immigration security crisis, Israeli-Palestinian relations, U.S.-Iran relations, U.S.-Venezuela relations, a Free-and-Open Indo-Pacific, and promotion of Enduring American Values.
-- Led establishment of and oversees two offices, combined $24-36 million/yr budget/80-person unit within Global Public Affairs (GPA) focused on audience and media research and analytics, worldwide; Oversaw formal elevation of Research and Analytics’ position in the Department's organizational hierarchy.
-- Assisted in reorientation of two decommissioned bureaus’ legacy personnel and assets towards a unified mission in direct support of Department of State communication strategy.
-- Filled staffing and leadership gaps to ensure institutional momentum of research and analytics offices through future planned and unexpected leadership transitions.
+<b id="f1">U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019-Present</b>
+- Supports team of 80+ researchers and analysts collecting and presenting data-backed insights to support U.S. government’s foreign communications and media strategy on issues of critical national interest.
+- Develops and delivers written briefs and oral presentations to senior White House, State Department, National Security Council, Department of Homeland Security, Defense Department officials.
+- Shapes long-term strategic communications and media plans supporting U.S. national foreign policy. 
+- Leads Department towards a proactive, audience-driven, policy impact-focused press approach.
+- Leads analytical support for U.S. government communications on breaking global issues including the outbreak of COVID-19; geopolitical and national security crises; highly-dynamic events like United Nations meetings and foreign trips for U.S. government principal figures.
+- Leads analytical support for longer-term campaigns including climate change, COVID-19 recovery, advancing safe 5G telecommunications, the Central American immigration security crisis, Israeli-Palestinian relations, U.S.-Iran relations, U.S.-Venezuela relations, a Free-and-Open Indo-Pacific, and promotion of enduring American values.
+- Reorganized and reoriented two decommissioned bureaus’ legacy personnel and assets towards a unified mission in direct support of Department of State communication strategy.
+- Led establishment of and oversees two offices and a ~$30 million annual budget within Global Public Affairs (GPA) focused on audience and media research and analytics, worldwide; led and managed through two consecutive years of capacity-doubling and the units’ formal hierarchical elevation.
 - Manages two offices’ operations and subordinate staff; schedules and prioritizes work operations; establishes overall policies, practices, goals; provides technical requirements and descriptions of work to be accomplished.
 - Has subject-matter expertise in, responsible for providing advice on international media markets and audience research strategy, as well as opportunities to integrate audience research into business strategy.
 - Oversees development and implementation of an overarching and comprehensive audience research and analysis strategy to measure and improve the effectiveness of the bureau’s programs and services in support of U.S. foreign policy goals.
 - Creates the overall evaluation strategy to measure impact of GPA programs and products on international public opinion of the United States.
 - Developed and implemented guidance for conducting modern and efficient interagency electronic communication in compliance with NIST, FISMA, FIPS, ODNI, and Department of State information and systems security policies and procedures.
-- Responsible for execution of services, standards, and ensures responsiveness to GPA Information Technology requirements across two offices according to agency and government standards.
+- Responsible for execution of services, standards, and ensures responsiveness to information technology requirements across two offices according to agency and government standards.
 - Position requires maintenance of federal security clearances, financial disclosures, rigorous ethical guidelines, and FAC-COR certification.
 [↩](#a1)
 
-<b id="f2">2</b> U.S. DEPARTMENT OF STATE – Analytics Director, International Information Programs – 5/2016-5/2019
+<b id="f2">U.S. DEPARTMENT OF STATE – Analytics Director, International Information Programs – 5/2016-5/2019</b> 
 - On 4-year term appointment: Developed and executed two-year organizational turnaround plan for the Office of Analytics at the Bureau of International Information Programs. Enhanced or created Bureau’s capacity to remotely support U.S. Embassy Public Affairs staff around the world in target audience research, strategic planning and campaign design, digital advertising, social and digital media analysis, digital and social property auditing, program measurement and evaluation, in-cycle optimization, data science and software engineering, and global rapid response information collection. Managed 23 staff, $5.9 million budget.
 - Served as State Department Lead for the Data Outcome of the Secretary of State’s Redesign Initiative of the Department of State and USAID, responsible for scoping the long-term strategic overhaul of the Department’s enterprise data infrastructure and analytics capacities, with the goal of creating the right technical, cultural, and governance environment to bring evidence-based policymaking to the Department, guiding long-term strategy for a $120+ million per year data investment.
 - Served on the Secretary of State’s Impact Initiative as Keystone Project Leader for an internal communications campaign designed to spark a culture shift towards using data and analytics to inform Department decisions.
@@ -123,7 +123,7 @@ author_profile: true
 - Position required maintenance of security clearance, FAC-COR certification.
 [↩](#a2)
 
-<b id="f3">3</b> BURSON-MARSTELLER – Senior Director, Analytics & Innovation Head – Washington, DC – 3/2013-5/2016
+<b id="f3">BURSON-MARSTELLER – Senior Director, Analytics & Innovation Head – Washington, DC – 3/2013-5/2016</b> 
 - Founded Analytics and Innovation Group: Established, recruited, and led teams responsible for Product Development, Data Research, and Measurement, directly managed each of the team leads, consolidating staff from other analytics teams. Delivered new and highly-revenue-generating services to top global clients, drove major evolution in top-level brand and product strategy for dozens of high-profile corporations. Managed 12 staff, earned $3MM in direct annual revenue, drove $5MM in additional cross-practice revenue through sales.
 - Served in thought leadership role, producing internal research, writing corporate blog posts, filling conference speaking roles, and gave guidance in big data and analytics strategy for B-M holding company, WPP.
 - Established Amazon Web Services cloud contract and led development team to embrace off-premises technology; implemented Nessus cyber security auditing protocol and rigorously reviewed platform exposure; responsible for identity access management (IAM) for internal user base.
@@ -132,13 +132,13 @@ author_profile: true
 - Named to Holmes Report’s The Innovator 25 North America in 2015, recognizing efforts to revolutionize and grow Burson-Marsteller’s analytics and research capabilities while creating new revenue streams.
 [↩](#a3)
 
-<b id="f4">4</b> PINAXIS GROUP – Partner/Research Director – Washington, DC – 12/2011-3/2013
+<b id="f4">PINAXIS GROUP – Partner/Research Director – Washington, DC – 12/2011-3/2013</b>
 - Led research, feature design, and quality control efforts for [Apollo](http://apollo.pinaxis.com), winner of the EHR Accessibility Module Challenge, by Health 2.0 and the Office of the National Coordinator for Health IT.
 - Led research efforts, designed workflow, and developed back-end scoring logic model for [THUMPr](http://www.thumpr.us), winner of the HHS Investing in Innovation Initiative’s (i2) One in a Million Hearts Challenge through the Office of the National Coordinator for Health IT (ONC).
 - Led medical research efforts, wrote clinical decision-making/screening logic for [Horizon](http://horizon.pinaxis.com), a submission in the Reducing Cancer Among Women of Color challenge through Health 2.0 and the Office of the National Coordinator for Health IT (ONC).
 [↩](#a4)
 
-<b id="f5">5</b> NCEC SERVICES INC – Senior Political Analyst – Washington, DC – 10/2010-3/2013
+<b id="f5">NCEC SERVICES INC – Senior Political Analyst – Washington, DC – 10/2010-3/2013</b> 
 - Provided data-backed advice to elected officials, candidates, chamber caucuses, state parties, labor unions, and non-profits in 50 states regarding conduct of campaigns and redistricting efforts. 
 - Wrote and deployed enterprise-wide geospatial analysis software platform to programmatically interface with a data warehouse I also architected and deployed, designed to flexibly and transparently store redistricting plans.
 - Applied agile test-driven-development principles in developing software using python to generate natural language descriptions of newly-drawn political districts using statistical methods to analyze and contextualize information stored in a complex set of disparate SQL databases, which saved a team 8 staff-months of work.
@@ -149,7 +149,7 @@ author_profile: true
 - Wrote open-source Excel/VBA module for geocoding based on [DataScienceToolKit](http://www.datasciencetoolkit.org) address2coordinates API, used by staff to identify geospatial locations in bulk based on addresses.
 [↩](#a5)
 
-<b id="f6">6</b> PERSEID GROUP LLC – Owner – Washington, DC – 3/2009-12/2011
+<b id="f6">PERSEID GROUP LLC – Owner – Washington, DC – 3/2009-12/2011</b>
 - Managed firm operations, finances, contractors, vendors, business development, and client services.
 - Advised corporate and non-profit clients, developing and implementing analytics-driven management strategies and technology tools enabling clients to achieve their goals.
 - Wrote multi-year-time-horizon strategic technology development roadmap for medium-sized data warehouse/software/analysis firm.
@@ -161,14 +161,14 @@ author_profile: true
 - Designed and deployed FINRA-compliant data and cyber security measures into tech infrastructure to allow statistical analysis of databases containing personally-identifiable information for finance client.
 [↩](#a6)
 
-<b id="f7">7</b> PRESIDENTIAL INAUGURAL COMMITTEE – Data/CRM Manager – Washington, DC – 11/2008-2/2009
+<b id="f7">PRESIDENTIAL INAUGURAL COMMITTEE – Data/CRM Manager – Washington, DC – 11/2008-2/2009</b> 
 - Recruited and led team of 5 in rapidly designing and executing overall data plan, determined and advocated scope of work, recruited and managed staff and vendors, worked with senior leadership to meet overall goals.
 - Designed and implemented cloud-based Salesforce CRM system for 200+ users, facilitating coordination of critical activities from ticket allocation and distribution to volunteers, housing, and motor pool management. 
 - Responsible for cyber assurance and security: proper handling of PII, financial information, and a very complex identity access management system for hundreds of users with access control lists at the record level.
 - Coordinated staff and vendor teams to allocate 120,000+ individual tickets on ambitious deadlines.
 [↩](#a7)
 
-<b id="f8">8</b> OBAMA FOR AMERICA – Data Manager; Great Lakes Data Director – Chicago, IL – 4/2007-11/2008
+<b id="f8">OBAMA FOR AMERICA – Data Manager; Great Lakes Data Director – Chicago, IL – 4/2007-11/2008</b>
 - Designed and led from-scratch build-up of national data program; planned, budgeted, and implemented websites and tools used by 30,000+ staff and volunteers to share information on 160+ million voters, donors, political contacts, and delegates over the course of the campaign.
 - Led charge internally to embrace volunteer recruitment as heart of campaign’s field efforts; persuaded campaign to adopt an open, decentralized, internet-based volunteer model as centerpiece of primary and general campaigns, with special attention to non-traditional areas.
 - Spearheaded campaign primary strategy to focus on post-January contests by developing statistical models of delegate apportionment scenarios for national convention and state caucuses, a move that helped Obama win delegates by preparing well in advance for a drawn-out nomination battle.
@@ -180,7 +180,7 @@ author_profile: true
 - Managed a team of 12 staff with diverse functions and hours through primary contests.
 [↩](#a8)
 
-<b id="f9">9</b> AMERICAN FEDERATION OF TEACHERS – Campaign Technologist – Washington, DC – 3/2003-4/2007
+<b id="f9">AMERICAN FEDERATION OF TEACHERS – Campaign Technologist – Washington, DC – 3/2003-4/2007</b>
 - Directed projects nationwide as campaign technologist, including on-site work in over 25 states.
 - Responsible for overseeing vendor contracts and streamlining office procedures in conjunction with state and local affiliates, resulting in savings of $100k+ and many work hours.
 - Designed and deployed online associate member recruitment program; managed segmented e-mail contact program and wrote membership-facing digital communications content.
