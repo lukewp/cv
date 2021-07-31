@@ -3,10 +3,10 @@ layout: splash
 classes: landing
 author_profile: true
 ---
-<!-- lukewp.github.io -->
+<!-- lukewp.github.io 
 # LUKE PETERSON
 
-### SUMMARY
+### SUMMARY-->
 > *Luke leads teams into new territory and builds durable organizations: innovating, developing workable strategy, building and managing through execution, and establishing resilience.*
  
 > *Luke’s key professional strengths are his thoughtful leadership, attention to detail, consultative approach, and ability to solve complex problems. He adapts his approach to fit the need; he designs strategies and systems, and assembles teams to tackle complex challenges; he brokers new engagements through identification of new markets for tools and services; he harnesses emerging technology to transform reactive organizations into nimble, pro-active positions while managing risk.*
