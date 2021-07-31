@@ -62,12 +62,6 @@ author_profile: true
 - Regression Analysis
 - Quantitative and Qualitative Research Design
 
-### General/Business Tools:  
-- Microsoft and Google Office Suites
-- Adobe CS
-- Quickbooks
-- Windows, Mac, and Linux Administration (Native and Virtualized/Cloud Environments)
-
 ### GIS:  
 - ESRI
 - QGIS
@@ -82,6 +76,12 @@ author_profile: true
 - VBA
 - SPSS
 - HTML/CSS
+
+### General/Business Tools:  
+- Microsoft and Google Office Suites
+- Adobe CS
+- Quickbooks
+- Windows, Mac, and Linux Administration (Native and Virtualized/Cloud Environments)
 
 ### Details:
 <b id="f1">1</b> U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019-Present
