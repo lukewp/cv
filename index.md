@@ -50,10 +50,10 @@ sitemap: false
 - OmniOScient: Knows Windows, Mac, and Linux (Native and Virtualized/Cloud Environments)
 
 ## ACTIVITIES:
-- Troop Leader, Girl Scouts Daisy Troop #42103, 2020-Present
-- Pack Secretary and Pinewood Derby Race Master, Takoma Park Cub Scouts Pack 33, 2018-Present
-- Finisher, Ironman Florida 2013, Savageman 2013, Marine Corps Marathon 2016 & 2019, Great Chesapeake Bay Swim 2014
-- Keyboardist and Audio Engineer, [Bonjour Ganesh!](https://soundcloud.com/bonjourganesh-sc/sets/trunk), 2009-2013
+- Troop Leader, Girl Scouts USA Daisy/Brownie Troop #42103, Washington, DC - 2020-Present
+- Pack Secretary and Pinewood Derby Race Master, Cub Scouts Pack 33, Takoma Park, MD - 2018-Present
+- Finisher, [Ironman Florida 2013](https://feathersprod.blob.core.windows.net/api-public/9C371802-8B48-455F-8951-159C976601D6.pdf), Savageman 70.0 2013, Marine Corps Marathon 2016 & 2019, [Great Chesapeake Bay Swim 2014](http://bayswim.com/wp-content/uploads/2019/01/2014.pdf)
+- Keyboardist and Audio Engineer, [Bonjour Ganesh!](https://soundcloud.com/bonjourganesh-sc/sets/trunk), 2009-2012
 
 ## SPEAKING AND WRITING: 
 - Panelist, [Data Driven Public Diplomacy, Six Years Later](https://www.state.gov/acpd-official-meeting-minutes-june-23-2020/), U.S. Advisory Commission on Public Diplomacy (ACPD), 6/2020
