@@ -70,7 +70,7 @@ author_profile: true
 | PostGIS | VBA | RDBMS Design and Administration |
 | GDAL | HTML/CSS | Quantative and Qualitative Research Design |
 
-### Details:
+### Details for foreign intelligence, the truly curious, and machine readers:
 <b id="f1">U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019-Present</b>
 - Leads, supports, and advocates for a team of 80+ researchers and analysts collecting and presenting data-backed insights to support U.S. government’s foreign communications and media strategy on issues of critical national interest.
 - Develops and delivers written briefs and oral presentations to senior White House, State Department, National Security Council, Department of Homeland Security, Defense Department officials.
@@ -95,10 +95,10 @@ author_profile: true
 [↩](#a1)
 
 <b id="f2">U.S. DEPARTMENT OF STATE – Analytics Director, International Information Programs – 5/2016-5/2019</b> 
-- On 4-year term appointment: Developed and executed two-year organizational turnaround plan for the Office of Analytics at the Bureau of International Information Programs. Enhanced or created Bureau’s capacity to remotely support U.S. Embassy Public Affairs staff around the world in target audience research, strategic planning and campaign design, digital advertising, social and digital media analysis, digital and social property auditing, program measurement and evaluation, in-cycle optimization, data science and software engineering, and global rapid response information collection. Managed 23 staff, $5.9 million budget.
+- On 4-year term appointment: Developed and executed two-year organizational turnaround plan for the Office of Analytics at the Bureau of International Information Programs. Enhanced or created Bureau’s capacity to remotely support U.S. Embassy Public Affairs staff around the world in target audience research, strategic planning and campaign design, digital advertising, social and digital media analysis, digital and social property auditing, program measurement and evaluation, in-cycle optimization, data science and software engineering, and global rapid response information collection. Grew over 3 years from 7 staff, $1.4 million budget to 23 staff, $5.9 million budget.
 - Served as State Department Lead for the Data Outcome of the Secretary of State’s Redesign Initiative of the Department of State and USAID, responsible for scoping the long-term strategic overhaul of the Department’s enterprise data infrastructure and analytics capacities, with the goal of creating the right technical, cultural, and governance environment to bring evidence-based policymaking to the Department, guiding long-term strategy for a $120+ million per year data investment.
 - Served on the Secretary of State’s Impact Initiative as Keystone Project Leader for an internal communications campaign designed to spark a culture shift towards using data and analytics to inform Department decisions.
-- Served on interbureau merger task force: over a six month period designed, implemented, helped lead major change initiative to merge the Public Affairs Bureau and Bureau of International Information Programs -- together comprising nearly $100 million in annual budget, with over 400 staff on five continents. Skills honed in this effort included organizational planning (budget, resources, personnel), change management/leadership, negotiation, internal and external communications, congressional lobbying, and demanded extreme delicacy, flexibility, and dedication to see through.
+- Served on interbureau merger task force: over a six month period designed, implemented, helped lead major change initiative to merge the Bureaus of Public Affairs and International Information Programs -- together comprising nearly $100 million in annual budget, with over 400 staff on five continents. Skills honed in this effort included organizational planning (budget, resources, personnel), change management/leadership, negotiation, internal and external communications, congressional lobbying, and demanded extreme delicacy, flexibility, and dedication to see through.
 - Led research effort supporting White House communications strategies for an Israeli-Palestinian peace deal.
 - Led research efforts supporting State Department-wide international communications campaigns on Korean Denuclearization, Iran Nuclear Sanctions, and the South China Sea.
 - Led IIP Office of Analytics’ comprehensive evaluations of major Department efforts, determining costs, returns, successes and failures of IIP’s Youth Networks and ShareAmerica programs, the Department’s overhaul of its Embassy Website platforms, and a 10-year retrospective report on the use, utility, and proliferation of social media at the Department.
@@ -116,11 +116,11 @@ author_profile: true
 [↩](#a2)
 
 <b id="f3">BURSON-MARSTELLER – Senior Director, Analytics & Innovation Head – Washington, DC – 3/2013-5/2016</b> 
-- Founded Analytics and Innovation Group: Established, recruited, and led teams responsible for Product Development, Data Research, and Measurement, directly managed each of the team leads, consolidating staff from other analytics teams. Delivered new and highly-revenue-generating services to top global clients, drove major evolution in top-level brand and product strategy for dozens of high-profile corporations. Managed 12 staff, earned $3MM in direct annual revenue, drove $5MM in additional cross-practice revenue through sales.
-- Served in thought leadership role, producing internal research, writing corporate blog posts, filling conference speaking roles, and gave guidance in big data and analytics strategy for B-M holding company, WPP.
+- Founded Analytics and Innovation Group: Established, recruited, and led teams responsible for Product Development, Data Research, and Measurement, directly managed each of the team leads, consolidating staff from other analytics teams. Delivered new and highly-revenue-generating services to top global clients, drove major evolution in top-level brand and product strategy for dozens of high-profile corporations. Managed 12 staff, earned $3 million in direct annual revenue, drove $5 million in annual additional cross-practice sales revenue.
+- Served in thought leadership role, producing internal research, writing corporate blog posts, filling conference speaking roles, and gave guidance in big data and analytics strategy for holding company, WPP.
 - Established Amazon Web Services cloud contract and led development team to embrace off-premises technology; implemented Nessus cyber security auditing protocol and rigorously reviewed platform exposure; responsible for identity access management (IAM) for internal user base.
 - Designed data research projects, wrote custom data collection and analysis software using R, python, and SQL to support research efforts. Led prototyping and construction of systems to combine open source data and data proprietary to clients and other WPP network entities to deliver game-changing business insights to clients. 
-- Performed analysis using a variety of strategies, synthesized and delivered insights to C-suite clients and prospects for companies like Ford, Intel, Bank of America, Oracle, Fitbit, Dell and coached staff to do the same..
+- Performed analysis using a variety of strategies, synthesized and delivered insights to C-suite clients and prospects for companies like Ford, Intel, Bank of America, Oracle, Fitbit, Dell, Chipotle and coached staff to do the same..
 - Named to Holmes Report’s The Innovator 25 North America in 2015, recognizing efforts to revolutionize and grow Burson-Marsteller’s analytics and research capabilities while creating new revenue streams.
 [↩](#a3)
 
@@ -138,7 +138,7 @@ author_profile: true
 - Assisted in administration of legacy Microsoft SQL Server database, led transition to and administration of PostgreSQL servers; led security incident handling and response: intervention of, clean-up after, security upgrade following a major cyber intrusion of the company’s legacy web servers. 
 - Track record of promoting and introducing Open-Source technologies as equivalent or superior solutions to legacy systems and problems, and leading coworkers to develop skills on these newly-adopted tools.
 - Taught and mentored staff in effective use of software and statistical techniques.
-- Wrote open-source Excel/VBA module for geocoding based on [DataScienceToolKit](http://www.datasciencetoolkit.org) address2coordinates API, used by staff to identify geospatial locations in bulk based on addresses.
+- Before there were a dozen easier ways to do this, wrote an open-source Excel/VBA module for geocoding based on [DataScienceToolKit](http://www.datasciencetoolkit.org) address2coordinates API, used by colleagues to identify geospatial locations in bulk based on addresses.
 [↩](#a5)
 
 <b id="f6">PERSEID GROUP LLC – Owner – Washington, DC – 3/2009-12/2011</b>
@@ -157,7 +157,7 @@ author_profile: true
 - Recruited and led team of 5 in rapidly designing and executing overall data plan, determined and advocated scope of work, recruited and managed staff and vendors, worked with senior leadership to meet overall goals.
 - Designed and implemented cloud-based Salesforce CRM system for 200+ users, facilitating coordination of critical activities from ticket allocation and distribution to volunteers, housing, and motor pool management. 
 - Responsible for cyber assurance and security: proper handling of PII, financial information, and a very complex identity access management system for hundreds of users with access control lists at the record level.
-- Coordinated staff and vendor teams to allocate 120,000+ individual tickets on ambitious deadlines.
+- Coordinated staff and vendor teams to allocate 120,000+ individual tickets on ambitious, high-risk deadlines.
 [↩](#a7)
 
 <b id="f8">OBAMA FOR AMERICA – Data Manager; Great Lakes Data Director – Chicago, IL – 4/2007-11/2008</b>
@@ -185,3 +185,8 @@ author_profile: true
 - Pioneered use of key-value stores for organizing loosely-structured membership and recruit information.
 - Traveled to Erbil, Iraq to help Baghdad’s public school teachers develop a political organizing program and establish a stake in Iraqi parliamentary process; trained Kurdish civil society leaders in political organizing.
 [↩](#a9)
+
+AND BEFORE THAT, I worked in five states in several jobs that offered valuable experience: bar-back, IT helpdesk technician, swim instructor, cashier, lifeguard. I worked on two presidential campaigns, and was a professional gerrymanderer.
+
+In the 1990s, after six months of rigorous on-mountain and classroom training, I failed the role-playing part of U.S. National Ski Patrol's Outdoor Emergency Care exam while passing the exam's skills and written sections with flying colors. The examiner portraying a demanding race director successfully rattled my nerves, and I endangered my "patient" by acquiescing to the director's emphatic instructions to clear the run rather than carefully completing the assessment and ensuring the injured skier was safe to move. For a while, I thought the lesson was that I should push back on those who would wield power irresponsibly. But over time I have come to think of it as a parable about risk blindness: the person discovering risk must communicate it up the chain to those who might not clearly see their own liabilities.
+
