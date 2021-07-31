@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 classes: landing
 author_profile: true
 ---
@@ -14,7 +14,7 @@ author_profile: true
 > *Luke’s expertise ranges from organizational design and coaching, to social science and strategic communications, to hard technical skills like geospatial database architecture and AI/machine learning.* 
 
 ## PROFESSIONAL EXPERIENCE
-- U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019-Present <sup id="a1">[:ledger:](#f1)</sup>
+- <a id="a1">[U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019-Present ](#f1)</a>
 - U.S. DEPARTMENT OF STATE – Analytics Director, International Information Programs – 5/2016-5/2019 <sup id="a2">[2](#f2)</sup>
 - BURSON-MARSTELLER – Senior Director; Head, Analytics and Innovation – Washington, DC – 3/2013-5/2016 <sup id="a3">[3](#f3)</sup>
 - PINAXIS GROUP LLC – Partner/Research Director – Washington, DC – 12/2011-3/2013 <sup id="a4">[4](#f4)</sup>
