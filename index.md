@@ -62,7 +62,6 @@ author_profile: true
 - Hates Quickbooks
 - OmniOScient: Knows Windows, Mac, and Linux (Native and Virtualized/Cloud Environments)
 
-### Other:
 | GIS: | Languages: | Data Science Concepts: |
 | --- | --- | --- |
 | ESRI | SQL | Cluster and Factor Analysis |
