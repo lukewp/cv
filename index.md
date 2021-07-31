@@ -16,16 +16,16 @@ author_profile: true
 ## PROFESSIONAL EXPERIENCE
 - <a id="a1">[U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 2019-Present ](#f1)</a>
 - <a id="a2">[U.S. DEPARTMENT OF STATE – Analytics Director, International Information Programs – 2016-2019 ](#f2)</a>
-- <a id="a3">[BURSON-MARSTELLER – Senior Director; Head, Analytics and Innovation – Washington, DC – 2013-2016 ](#f3)</a>
-- <a id="a4">[PINAXIS GROUP LLC – Partner/Research Director – Washington, DC – 2011-2013 ](#f4)</a>
-- <a id="a5">[NCEC SERVICES INC – Senior Political Analyst – Washington, DC – 2010-2013 ](#f5)</a>
-- <a id="a6">[PERSEID GROUP LLC – Owner – Washington, DC – 2009-2011 ](#f6)</a>
-- <a id="a7">[PRESIDENTIAL INAUGURAL COMMITTEE – Data/CRM Manager – Washington, DC – 2008-2009 ](#f7)</a>
-- <a id="a8">[OBAMA FOR AMERICA – National Data Manager; Great Lakes Data Director – Chicago, IL – 2007-2008 ](#f8)</a>
-- <a id="a9">[AMERICAN FEDERATION OF TEACHERS – Campaign Technologist – Washington, DC – 2003-2007 ](#f9)</a>
-- MARYLAND DEMOCRATIC PARTY – Targeting Director – Baltimore, MD – 2002
-- TUCKER GIBSON CONSULTING – Redistricting Consultant – San Antonio, TX – 2001-2002
-- WISCONSIN DEMOCRATIC PARTY – Deputy Voter File Manager – Madison, WI – 2000
+- <a id="a3">[BURSON-MARSTELLER – Senior Director; Head, Analytics and Innovation – 2013-2016 ](#f3)</a>
+- <a id="a4">[PINAXIS GROUP LLC – Partner/Research Director – 2011-2013 ](#f4)</a>
+- <a id="a5">[NCEC SERVICES INC – Senior Political Analyst – 2010-2013 ](#f5)</a>
+- <a id="a6">[PERSEID GROUP LLC – Owner – 2009-2011 ](#f6)</a>
+- <a id="a7">[PRESIDENTIAL INAUGURAL COMMITTEE – Data/CRM Manager – 2008-2009 ](#f7)</a>
+- <a id="a8">[OBAMA FOR AMERICA – National Data Manager; Great Lakes Data Director – 2007-2008 ](#f8)</a>
+- <a id="a9">[AMERICAN FEDERATION OF TEACHERS – Campaign Technologist – 2003-2007 ](#f9)</a>
+- MARYLAND DEMOCRATIC PARTY – Targeting Director – 2002
+- TUCKER GIBSON CONSULTING – Redistricting Consultant – 2001-2002
+- WISCONSIN DEMOCRATIC PARTY – Deputy Voter File Manager – 2000
 
 ## EDUCATION
 - [U.S. ARMY WAR COLLEGE, Carlisle Barracks, PA: Master of Strategic Studies](https://www.armywarcollege.edu/programs/mel_1.cfm) (Distinguished Graduate)
