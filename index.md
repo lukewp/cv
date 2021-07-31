@@ -81,7 +81,8 @@ author_profile: true
 
 ## Additional Details for the bots and the truly curious:
 <b id="f1">U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019-Present</b>
-- Serves as head of insights: Leads, supports, and advocates for a team of 80+ researchers and analysts collecting and presenting data-backed insights to support and influence U.S. government’s foreign communications and media strategy on issues of critical national interest.
+- As Deputy Assistant Secretary for Research and Analytics, serves as Head of Marketing Insights for foreign-facing Public Affairs of the United States Government. 
+- Leads, supports, and advocates for a team of 80+ researchers and analysts collecting and presenting data-backed insights to support and influence U.S. government’s foreign communications and media strategy on issues of critical national interest.
 - Develops and delivers written briefs and oral presentations to senior White House, State Department, National Security Council, Department of Homeland Security, Defense Department officials. Distills and translates complicated research observations into executive recommendations.
 - Shapes long-term strategic communications and media plans supporting and influencing U.S. national foreign policy.
 - Responsible for $25m+ audience and marketing research, media analysis offices who help U.S. Government stakeholders understand overseas audiences and their information environments, and then develop integrated marketing and communications campaigns to reach, inform, and influence them.
@@ -97,8 +98,8 @@ author_profile: true
 - <b>Skills and Specific Expertise:</b>
   - Advises on international media engagement, multi-channel advertising and integrated marketing strategy, creative content direction, and audience research strategy including survey design, recruitment, analysis methodology; distills and presents insights to shape foreign policy and business strategy.
   - Develops and edits written analytic products presenting executive recommendations grounded in technical and scientific research and analysis processes.
-  - Coaches analysts and researchers on understanding client objectives, strategic thinking, data science methods, marketing/communications tactics, product refinement and distribution strategy.
-  - Oversees development and implementation of an overarching and comprehensive audience research and analysis strategy to measure and sharpen the bureau’s earned, owned, shared, paid communications programs advancing U.S. foreign policy goals.
+  - Coaches analysts and researchers on understanding client objectives, strategic thinking, data science methods, marketing communications tactics, product refinement and distribution strategy.
+  - Oversees development and implementation of an overarching and comprehensive audience research and analysis strategy to measure and sharpen the bureau’s earned, owned, shared, paid communications programs and integrated marketing campaigns advancing U.S. foreign policy goals.
   - Responsible for the overall evaluation strategy measuring impact of bureau programs and products on international public opinion of the United States.
   - Developed and implemented guidance for conducting modern and efficient interagency electronic communication in compliance with NIST, FISMA, FIPS, ODNI, and Department of State information and systems security policies and procedures.
   - Responsible for execution of services, standards, and ensures responsiveness to information technology requirements across two offices according to agency and government standards.
@@ -143,7 +144,7 @@ author_profile: true
 [↩](#a4)
 
 <b id="f5">NCEC SERVICES INC – Senior Political Analyst – Washington, DC – 10/2010-3/2013</b> 
-- Provided data-backed advice to elected officials, candidates, chamber caucuses, state parties, labor unions, and non-profits in 50 states regarding conduct of campaigns and redistricting efforts. 
+- Provided data-backed advice to elected officials, candidates, chamber caucuses, state parties, labor unions, and non-profits in 50 states regarding conduct of campaigns and redistricting efforts. Constantly translate and deliver highly-technical analysis and insights to non-technical decision-makers.
 - Wrote and deployed enterprise-wide geospatial analysis software platform to programmatically interface with a data warehouse I also architected and deployed, designed to flexibly and transparently store redistricting plans.
 - Applied agile test-driven-development principles in developing software using python to generate natural language descriptions of newly-drawn political districts using statistical methods to analyze and contextualize information stored in a complex set of disparate SQL databases, which saved a team 8 staff-months of work.
 - Wrote software solutions to various legacy challenges in a combination of python, SQL, R, PostGIS, GDAL/OGR, and other languages/platforms (legacy Access/VBA/FoxPro); Developed Extract-Transform-Load (ETL) scripts to Microsoft SQL Server, PostgreSQL, SQLite, and MySQL for several hundred data sources and formats.
