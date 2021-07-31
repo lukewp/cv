@@ -80,7 +80,7 @@ author_profile: true
 - Obama Campaign Technology: Tools for Trade Unionists, AFT Public Employees, 6/2009
 - National Reporting Through GIS, Analyst Institute Retreat, 6/2009
 
-## Additional Details for the bots and the truly curious:
+## Additional Details for Robots and the Truly Curious:
 <b id="f1">U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019 - Present</b>
 - As Deputy Assistant Secretary for Research and Analytics, serves as Head of Marketing Insights for foreign-facing Public Affairs of the United States Government. 
 - Leads, supports, and advocates for a team of 80+ researchers and analysts collecting and presenting data-backed insights to support and influence U.S. government’s foreign communications and media strategy on issues of critical national interest.
