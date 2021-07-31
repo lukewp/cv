@@ -85,7 +85,7 @@ author_profile: true
 
 ### Details:
 <b id="f1">U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019-Present</b>
-- Leads and supports team of 80+ researchers and analysts collecting and presenting data-backed insights to support U.S. government’s foreign communications and media strategy on issues of critical national interest.
+- Leads, supports, and advocates for a team of 80+ researchers and analysts collecting and presenting data-backed insights to support U.S. government’s foreign communications and media strategy on issues of critical national interest.
 - Develops and delivers written briefs and oral presentations to senior White House, State Department, National Security Council, Department of Homeland Security, Defense Department officials.
 - Shapes long-term strategic communications and media plans supporting U.S. national foreign policy.
 - Responsible for managing $10m+ in multi-channel marketing: planning, executing, measuring impact
