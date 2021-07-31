@@ -28,8 +28,8 @@ author_profile: true
 - WISCONSIN DEMOCRATIC PARTY – Deputy Voter File Manager – Madison, WI – 7/2000-12/2000
 
 ## EDUCATION
-- U.S. ARMY WAR COLLEGE, Carlisle, PA: Master of Strategic Studies, 2020 (Distinguished Graduate)
-- TRINITY UNIVERSITY, San Antonio, TX: B.A. Political Science, 2002
+- [U.S. ARMY WAR COLLEGE, Carlisle Barracks, PA: Master of Strategic Studies](https://www.armywarcollege.edu/programs/mel_1.cfm) (Distinguished Graduate)
+- [TRINITY UNIVERSITY, San Antonio, TX: B.A. Political Science](https://www.trinity.edu/academics/departments/political-science/political-science-ba)
 
 ## ACTIVITIES & AWARDS
 - Awardee, U.S. State Department Superior Honor Award, 9/2020
