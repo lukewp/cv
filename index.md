@@ -3,6 +3,7 @@ layout: single
 classes: landing
 author_profile: true
 disallow: true
+sitemap: false
 ---
 <!-- lukewp.github.io 
 # LUKE PETERSON
