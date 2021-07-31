@@ -14,18 +14,18 @@ author_profile: true
 > *Luke’s expertise ranges from organizational design and coaching, to social science and strategic communications, to hard technical skills like geospatial database architecture and AI/machine learning.* 
 -->
 ## PROFESSIONAL EXPERIENCE
-- <a id="a1">[U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019-Present ](#f1)</a>
-- <a id="a2">[U.S. DEPARTMENT OF STATE – Analytics Director, International Information Programs – 5/2016-5/2019 ](#f2)</a>
-- <a id="a3">[BURSON-MARSTELLER – Senior Director; Head, Analytics and Innovation – Washington, DC – 3/2013-5/2016 ](#f3)</a>
-- <a id="a4">[PINAXIS GROUP LLC – Partner/Research Director – Washington, DC – 12/2011-3/2013 ](#f4)</a>
-- <a id="a5">[NCEC SERVICES INC – Senior Political Analyst – Washington, DC – 10/2010-3/2013 ](#f5)</a>
-- <a id="a6">[PERSEID GROUP LLC – Owner – Washington, DC – 3/2009-12/2011 ](#f6)</a>
-- <a id="a7">[PRESIDENTIAL INAUGURAL COMMITTEE – Data/CRM Manager – Washington, DC – 11/2008-2/2009 ](#f7)</a>
-- <a id="a8">[OBAMA FOR AMERICA – Data Manager; Great Lakes Data Director – Chicago, IL – 4/2007-11/2008 ](#f8)</a>
-- <a id="a9">[AMERICAN FEDERATION OF TEACHERS – Campaign Technologist – Washington, DC – 3/2003-4/2007 ](#f9)</a>
-- MARYLAND DEMOCRATIC PARTY – Targeting Director – Baltimore, MD – 5/2002-11/2002
-- TUCKER GIBSON CONSULTING – Redistricting Consultant – San Antonio, TX – 2/2001-5/2002
-- WISCONSIN DEMOCRATIC PARTY – Deputy Voter File Manager – Madison, WI – 7/2000-12/2000
+- <a id="a1">[U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 2019-Present ](#f1)</a>
+- <a id="a2">[U.S. DEPARTMENT OF STATE – Analytics Director, International Information Programs – 2016-2019 ](#f2)</a>
+- <a id="a3">[BURSON-MARSTELLER – Senior Director; Head, Analytics and Innovation – Washington, DC – 2013-2016 ](#f3)</a>
+- <a id="a4">[PINAXIS GROUP LLC – Partner/Research Director – Washington, DC – 2011-2013 ](#f4)</a>
+- <a id="a5">[NCEC SERVICES INC – Senior Political Analyst – Washington, DC – 2010-2013 ](#f5)</a>
+- <a id="a6">[PERSEID GROUP LLC – Owner – Washington, DC – 2009-2011 ](#f6)</a>
+- <a id="a7">[PRESIDENTIAL INAUGURAL COMMITTEE – Data/CRM Manager – Washington, DC – 2008-2009 ](#f7)</a>
+- <a id="a8">[OBAMA FOR AMERICA – National Data Manager; Great Lakes Data Director – Chicago, IL – 2007-2008 ](#f8)</a>
+- <a id="a9">[AMERICAN FEDERATION OF TEACHERS – Campaign Technologist – Washington, DC – 2003-2007 ](#f9)</a>
+- MARYLAND DEMOCRATIC PARTY – Targeting Director – Baltimore, MD – 2002
+- TUCKER GIBSON CONSULTING – Redistricting Consultant – San Antonio, TX – 2001-2002
+- WISCONSIN DEMOCRATIC PARTY – Deputy Voter File Manager – Madison, WI – 2000
 
 ## EDUCATION
 - [U.S. ARMY WAR COLLEGE, Carlisle Barracks, PA: Master of Strategic Studies](https://www.armywarcollege.edu/programs/mel_1.cfm) (Distinguished Graduate)
