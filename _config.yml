@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 locale                   : "en-US"
 title                    : "Luke Peterson CV"
 title_separator          : "-"
-subtitle                 : "noun from Latin: 'impossibly long resume uses buzzwords to improve NLP score'" # site tagline that appears below site title in masthead
+subtitle                 : "noun from Latin: <i>impossibly long resume with buzzwords for improving NLP score</i>" # site tagline that appears below site title in masthead
 name                     : "Luke Peterson"
 description              : # ""
 url                      : "http://cv.lukepeterson.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "lukewp/lukewp.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "curriculum vitae" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "<i>curriculum vitae</i>" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
