@@ -14,18 +14,18 @@ author_profile: true
 > *Luke’s expertise ranges from organizational design and coaching, to social science and strategic communications, to hard technical skills like geospatial database architecture and AI/machine learning.* 
 -->
 ## PROFESSIONAL EXPERIENCE
-- <a id="a1">[U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 2019-Present ](#f1)</a>
-- <a id="a2">[U.S. DEPARTMENT OF STATE – Analytics Director, International Information Programs – 2016-2019 ](#f2)</a>
-- <a id="a3">[BURSON-MARSTELLER – Senior Director; Head, Analytics and Innovation – 2013-2016 ](#f3)</a>
-- <a id="a4">[PINAXIS GROUP LLC – Partner/Research Director – 2011-2013 ](#f4)</a>
-- <a id="a5">[NCEC SERVICES INC – Senior Political Analyst – 2010-2013 ](#f5)</a>
-- <a id="a6">[PERSEID GROUP LLC – Owner – 2009-2011 ](#f6)</a>
-- <a id="a7">[PRESIDENTIAL INAUGURAL COMMITTEE – Data/CRM Manager – 2008-2009 ](#f7)</a>
-- <a id="a8">[OBAMA FOR AMERICA – National Data Manager; Great Lakes Data Director – 2007-2008 ](#f8)</a>
-- <a id="a9">[AMERICAN FEDERATION OF TEACHERS – Campaign Technologist – 2003-2007 ](#f9)</a>
-- MARYLAND DEMOCRATIC PARTY – Targeting Director – 2002
-- TUCKER GIBSON CONSULTING – Redistricting Consultant – 2001-2002
-- WISCONSIN DEMOCRATIC PARTY – Deputy Voter File Manager – 2000
+- <a id="a1">[U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019-Present ](#f1)</a>
+- <a id="a2">[U.S. DEPARTMENT OF STATE – Analytics Director, International Information Programs – 5/2016-5/2019 ](#f2)</a>
+- <a id="a3">[BURSON-MARSTELLER – Senior Director; Head, Analytics and Innovation – 3/2013-5/2016 ](#f3)</a>
+- <a id="a4">[PINAXIS GROUP LLC – Partner/Research Director – 12/2011-3/2013 ](#f4)</a>
+- <a id="a5">[NCEC SERVICES INC – Senior Political Analyst – 10/2010-3/2013 ](#f5)</a>
+- <a id="a6">[PERSEID GROUP LLC – Owner – 3/2009-12/2011 ](#f6)</a>
+- <a id="a7">[PRESIDENTIAL INAUGURAL COMMITTEE – Data/CRM Manager – 11/2008-2/2009 ](#f7)</a>
+- <a id="a8">[OBAMA FOR AMERICA – National Data Manager; Great Lakes Data Director – 4/2007-11/2008 ](#f8)</a>
+- <a id="a9">[AMERICAN FEDERATION OF TEACHERS – Campaign Technologist – 3/2003-4/2007 ](#f9)</a>
+- MARYLAND DEMOCRATIC PARTY – Targeting Director – 5/2002-11/2002
+- TUCKER GIBSON CONSULTING – Redistricting Consultant – 2/2001-5/2002
+- WISCONSIN DEMOCRATIC PARTY – Deputy Voter File Manager – 7/2000-12/2000
 
 ## EDUCATION
 - [U.S. ARMY WAR COLLEGE, Carlisle Barracks, PA: Master of Strategic Studies](https://www.armywarcollege.edu/programs/mel_1.cfm) (Distinguished Graduate)
@@ -48,9 +48,10 @@ author_profile: true
 - OmniOScient: Knows Windows, Mac, and Linux (Native and Virtualized/Cloud Environments)
 
 ## ACTIVITIES:
-- Troop Leader, Girl Scouts Daisies Troop #42103, 2020-Present
-- Pinewood Derby Race Master, Takoma Park MD Cub Scout Pack 33, 2018-Present
+- Troop Leader, Girl Scouts Daisy Troop #42103, 2020-Present
+- Pack Secretary and Pinewood Derby Race Master, Takoma Park Cub Scouts Pack 33, 2018-Present
 - Finisher, Ironman Florida 2013, Savageman 2013, Marine Corps Marathon 2016 & 2019, Great Chesapeake Bay Swim 2014
+- Keyboardist and Audio Engineer, [Bonjour Ganesh!](https://soundcloud.com/bonjourganesh-sc/sets/trunk), 2009-2013
 
 ## SPEAKING AND WRITING: 
 - Panelist, [Data Driven Public Diplomacy, Six Years Later](https://www.state.gov/acpd-official-meeting-minutes-june-23-2020/), U.S. Advisory Commission on Public Diplomacy (ACPD), 6/2020
@@ -80,7 +81,7 @@ author_profile: true
 - National Reporting Through GIS, Analyst Institute Retreat, 6/2009
 
 ## Additional Details for the bots and the truly curious:
-<b id="f1">U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019-Present</b>
+<b id="f1">U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019 - Present</b>
 - As Deputy Assistant Secretary for Research and Analytics, serves as Head of Marketing Insights for foreign-facing Public Affairs of the United States Government. 
 - Leads, supports, and advocates for a team of 80+ researchers and analysts collecting and presenting data-backed insights to support and influence U.S. government’s foreign communications and media strategy on issues of critical national interest.
 - Develops and delivers written briefs and oral presentations to senior White House, State Department, National Security Council, Department of Homeland Security, Defense Department officials. Distills and translates complicated research observations into executive recommendations.
@@ -91,6 +92,8 @@ author_profile: true
 - <b>Policy:</b>
   - Hands-on research, marketing, and analytic support and ad hoc requests for U.S. government communications on breaking global issues  including the outbreak of COVID-19; geopolitical and national security crises; highly-dynamic events like United Nations meetings and foreign trips for U.S. government principal figures.
   - Led research, marketing, and analytic strategy and support for longer-term campaigns including climate change, COVID-19 recovery, advancing safe 5G telecommunications, the Central American immigration security crisis, Israeli-Palestinian relations, U.S.-Iran relations, U.S.-Venezuela relations, promotion of a Free-and-Open Indo-Pacific and enduring American values.
+  - Serves as a senior working member of the Global Public Affairs Bureau Diversity and Inclusion Forum, leading effort to develop procurement and contracting strategies that will improve Diversity, Equity, Inclusion, and Accessibility practices employed by Bureau vendors
+  - Represents the Public Diplomacy and Public Affairs family to the Department-wide Enterprise Data Council
 - <b>Management:</b>
   - Managed through dynamic and changing environment to reorganize and reorient two decommissioned bureaus’ legacy personnel and assets towards a unified mission in direct support of Department of State communication strategy.
   - Led establishment of and oversees two offices comprising a ~$30 million annual budget within Global Public Affairs (GPA) focused on audience and media research and analytics, worldwide; led and managed through two consecutive years of capacity-doubling and the offices’ formal hierarchical elevation.
@@ -166,14 +169,14 @@ author_profile: true
 - Designed and deployed FINRA-compliant data and cyber security measures into tech infrastructure to allow statistical analysis of databases containing personally-identifiable information for finance client.
 [↩](#a6)
 
-<b id="f7">PRESIDENTIAL INAUGURAL COMMITTEE – Data/CRM Manager – Washington, DC – 11/2008-2/2009</b> 
+<b id="f7">PRESIDENTIAL INAUGURAL COMMITTEE – Data/CRM Manager – Washington, DC – 11/2008-02/2009</b> 
 - Recruited and led team of 5 in rapidly designing and executing overall data plan, determined and advocated scope of work, recruited and managed staff and vendors, worked with senior leadership to meet overall goals.
 - Designed and implemented cloud-based Salesforce CRM system for 200+ users, facilitating coordination of critical activities from ticket allocation and distribution to volunteers, housing, and motor pool management. 
 - Responsible for cyber assurance and security: proper handling of PII, financial information, and a very complex identity access management system for hundreds of users with access control lists at the record level.
 - Coordinated staff and vendor teams to allocate 120,000+ individual tickets on ambitious, high-risk deadlines.
 [↩](#a7)
 
-<b id="f8">OBAMA FOR AMERICA – Data Manager; Great Lakes Data Director – Chicago, IL – 4/2007-11/2008</b>
+<b id="f8">OBAMA FOR AMERICA – Data Manager; Great Lakes Data Director – Chicago, IL – 04/2007-11/2008</b>
 - Designed and led from-scratch build-up of national data program; planned, budgeted, and implemented websites and tools used by 30,000+ staff and volunteers to share information on 160+ million voters, donors, political contacts, and delegates over the course of the campaign.
 - Led charge internally to embrace volunteer recruitment as heart of campaign’s field efforts; persuaded campaign to adopt an open, decentralized, internet-based volunteer model as centerpiece of primary and general campaigns, with special attention to non-traditional areas.
 - Spearheaded campaign primary strategy to focus on post-January contests by developing statistical models of delegate apportionment scenarios for national convention and state caucuses, a move that helped Obama win delegates by preparing well in advance for a drawn-out nomination battle.
