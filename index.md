@@ -15,14 +15,14 @@ author_profile: true
 
 ## PROFESSIONAL EXPERIENCE
 - <a id="a1">[U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019-Present ](#f1)</a>
-- U.S. DEPARTMENT OF STATE – Analytics Director, International Information Programs – 5/2016-5/2019 <sup id="a2">[2](#f2)</sup>
-- BURSON-MARSTELLER – Senior Director; Head, Analytics and Innovation – Washington, DC – 3/2013-5/2016 <sup id="a3">[3](#f3)</sup>
-- PINAXIS GROUP LLC – Partner/Research Director – Washington, DC – 12/2011-3/2013 <sup id="a4">[4](#f4)</sup>
-- NCEC SERVICES INC – Senior Political Analyst – Washington, DC – 10/2010-3/2013 <sup id="a5">[5](#f5)</sup>
-- PERSEID GROUP LLC – Owner – Washington, DC – 3/2009-12/2011 <sup id="a6">[6](#f6)</sup>
-- PRESIDENTIAL INAUGURAL COMMITTEE – Data/CRM Manager – Washington, DC – 11/2008-2/2009 <sup id="a7">[7](#f7)</sup>
-- OBAMA FOR AMERICA – Data Manager; Great Lakes Data Director – Chicago, IL – 4/2007-11/2008 <sup id="a8">[8](#f8)</sup>
-- AMERICAN FEDERATION OF TEACHERS – Campaign Technologist – Washington, DC – 3/2003-4/2007 <sup id="a9">[9](#f9)</sup>
+- <a id="a2">[U.S. DEPARTMENT OF STATE – Analytics Director, International Information Programs – 5/2016-5/2019 ](#f2)</a>
+- <a id="a3">[BURSON-MARSTELLER – Senior Director; Head, Analytics and Innovation – Washington, DC – 3/2013-5/2016 ](#f3)</a>
+- <a id="a4">[PINAXIS GROUP LLC – Partner/Research Director – Washington, DC – 12/2011-3/2013 ](#f4)</a>
+- <a id="a5">[NCEC SERVICES INC – Senior Political Analyst – Washington, DC – 10/2010-3/2013 ](#f5)</a>
+- <a id="a6">[PERSEID GROUP LLC – Owner – Washington, DC – 3/2009-12/2011 ](#f6)</a>
+- <a id="a7">[PRESIDENTIAL INAUGURAL COMMITTEE – Data/CRM Manager – Washington, DC – 11/2008-2/2009 ](#f7)</a>
+- <a id="a8">[OBAMA FOR AMERICA – Data Manager; Great Lakes Data Director – Chicago, IL – 4/2007-11/2008 ](#f8)</a>
+- <a id="a9">[AMERICAN FEDERATION OF TEACHERS – Campaign Technologist – Washington, DC – 3/2003-4/2007 ](#f9)</a>
 - MARYLAND DEMOCRATIC PARTY – Targeting Director – Baltimore, MD – 5/2002-11/2002
 - TUCKER GIBSON CONSULTING – Redistricting Consultant – San Antonio, TX – 2/2001-5/2002
 - WISCONSIN DEMOCRATIC PARTY – Deputy Voter File Manager – Madison, WI – 7/2000-12/2000
