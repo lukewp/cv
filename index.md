@@ -85,21 +85,26 @@ author_profile: true
 
 ### Details:
 <b id="f1">U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019-Present</b>
-- Supports team of 80+ researchers and analysts collecting and presenting data-backed insights to support U.S. government’s foreign communications and media strategy on issues of critical national interest.
+- Leads and supports team of 80+ researchers and analysts collecting and presenting data-backed insights to support U.S. government’s foreign communications and media strategy on issues of critical national interest.
 - Develops and delivers written briefs and oral presentations to senior White House, State Department, National Security Council, Department of Homeland Security, Defense Department officials.
 - Shapes long-term strategic communications and media plans supporting U.S. national foreign policy. 
-- Leads Department towards a proactive, audience-driven, policy impact-focused press approach.
-- Leads analytical support for U.S. government communications on breaking global issues including the outbreak of COVID-19; geopolitical and national security crises; highly-dynamic events like United Nations meetings and foreign trips for U.S. government principal figures.
-- Leads analytical support for longer-term campaigns including climate change, COVID-19 recovery, advancing safe 5G telecommunications, the Central American immigration security crisis, Israeli-Palestinian relations, U.S.-Iran relations, U.S.-Venezuela relations, a Free-and-Open Indo-Pacific, and promotion of enduring American values.
+- Leads Department towards a proactive, audience-driven, policy impact-focused communications approach.
+Policy Areas:
+- Led analytical support for U.S. government communications on breaking global issues including the outbreak of COVID-19; geopolitical and national security crises; highly-dynamic events like United Nations meetings and foreign trips for U.S. government principal figures.
+- Led analytical support for longer-term campaigns including climate change, COVID-19 recovery, advancing safe 5G telecommunications, the Central American immigration security crisis, Israeli-Palestinian relations, U.S.-Iran relations, U.S.-Venezuela relations, a Free-and-Open Indo-Pacific, and promotion of enduring American values.
+Management:
 - Reorganized and reoriented two decommissioned bureaus’ legacy personnel and assets towards a unified mission in direct support of Department of State communication strategy.
 - Led establishment of and oversees two offices and a ~$30 million annual budget within Global Public Affairs (GPA) focused on audience and media research and analytics, worldwide; led and managed through two consecutive years of capacity-doubling and the units’ formal hierarchical elevation.
 - Manages two offices’ operations and subordinate staff; schedules and prioritizes work operations; establishes overall policies, practices, goals; provides technical requirements and descriptions of work to be accomplished.
+Skills and Specific Expertise:
 - Has subject-matter expertise in, responsible for providing advice on international media markets and audience research strategy, as well as opportunities to integrate audience research into business strategy.
+- Responsible for development of and is final line editor for written analytic products presenting executive recommendations based on highly technical/scientific research and analysis processes.
 - Oversees development and implementation of an overarching and comprehensive audience research and analysis strategy to measure and improve the effectiveness of the bureau’s programs and services in support of U.S. foreign policy goals.
-- Creates the overall evaluation strategy to measure impact of GPA programs and products on international public opinion of the United States.
+- Responsible for the overall evaluation strategy measuring impact of GPA programs and products on international public opinion of the United States.
 - Developed and implemented guidance for conducting modern and efficient interagency electronic communication in compliance with NIST, FISMA, FIPS, ODNI, and Department of State information and systems security policies and procedures.
 - Responsible for execution of services, standards, and ensures responsiveness to information technology requirements across two offices according to agency and government standards.
-- Position requires maintenance of federal security clearances, financial disclosures, rigorous ethical guidelines, and FAC-COR certification.
+- Position has required federal security clearances, financial disclosures, rigorous ethical guidelines, and FAC-COR certification.
+
 [↩](#a1)
 
 <b id="f2">U.S. DEPARTMENT OF STATE – Analytics Director, International Information Programs – 5/2016-5/2019</b> 
