@@ -56,41 +56,20 @@ author_profile: true
 
 ## PROFICIENCIES
 
-### Data Science and Related Concepts:  
-- Natural Language Processing 
-- Cluster and Factor Analysis
-- Regression Analysis
-- Quantitative and Qualitative Research Design
-- RDBMS Design and Administration
-
-<!--### GIS:  
-- ESRI
-- QGIS
-- Maptitude
-- PostGIS
-- GDAL
-
-### Languages:  
-- SQL
-- Python
-- R
-- VBA
-- SPSS
-- HTML/CSS-->
-
 ### General/Business Tools:  
-- J.S. Bach-level Genius/Artist with the Microsoft and Google Office Suites
+- GZA-level Genius with the Microsoft and Google Office Suites
 - Functionally Competent with Adobe CS, Gimp, Audacity, and Final Cut
 - Hates Quickbooks
-- OmniOSient: Windows, Mac, and Linux (Native and Virtualized/Cloud Environments)
+- OmniOScient: Knows Windows, Mac, and Linux (Native and Virtualized/Cloud Environments)
 
-| GIS: | Languages: | 
-| --- | --- |
-| ESRI | SQL |
-| QGIS | Python |
-| Maptitude | R | 
-| PostGIS | VBA |
-| GDAL | HTML/CSS |
+### Other:
+| GIS: | Languages: | Data Science Concepts: |
+| --- | --- | --- |
+| ESRI | SQL | Cluster and Factor Analysis |
+| QGIS | Python | Regression Analysis |
+| Maptitude | R | Natural Language Processing |
+| PostGIS | VBA | RDBMS Design and Administration |
+| GDAL | HTML/CSS | Quantative and Qualitative Research Design |
 
 ### Details:
 <b id="f1">U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019-Present</b>
