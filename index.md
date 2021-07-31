@@ -11,8 +11,8 @@ author_profile: true
  
 > *Luke’s key professional strengths are his thoughtful leadership, attention to detail, consultative approach, and ability to solve complex problems. He adapts his approach to fit the need; he designs strategies and systems, and assembles teams to tackle complex challenges; he brokers new engagements through identification of new markets for tools and services; he harnesses emerging technology to transform reactive organizations into nimble, pro-active positions while managing risk.*
 
-> *Luke’s expertise ranges from organizational design and coaching, to social science and strategic communications, to hard technical skills like geospatial database architecture and AI/machine learning.* -->
-
+> *Luke’s expertise ranges from organizational design and coaching, to social science and strategic communications, to hard technical skills like geospatial database architecture and AI/machine learning.* 
+-->
 ## PROFESSIONAL EXPERIENCE
 - <a id="a1">[U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019-Present ](#f1)</a>
 - <a id="a2">[U.S. DEPARTMENT OF STATE – Analytics Director, International Information Programs – 5/2016-5/2019 ](#f2)</a>
