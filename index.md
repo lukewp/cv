@@ -89,13 +89,13 @@ author_profile: true
 - Develops and delivers written briefs and oral presentations to senior White House, State Department, National Security Council, Department of Homeland Security, Defense Department officials.
 - Shapes long-term strategic communications and media plans supporting U.S. national foreign policy. 
 - Leads Department towards a proactive, audience-driven, policy impact-focused communications approach.
-- <b>Policy Areas:</b>
+- <b>Policy:</b>
   - Led analytical support for U.S. government communications on breaking global issues including the outbreak of COVID-19; geopolitical and national security crises; highly-dynamic events like United Nations meetings and foreign trips for U.S. government principal figures.
   - Led analytical support for longer-term campaigns including climate change, COVID-19 recovery, advancing safe 5G telecommunications, the Central American immigration security crisis, Israeli-Palestinian relations, U.S.-Iran relations, U.S.-Venezuela relations, a Free-and-Open Indo-Pacific, and promotion of enduring American values.
 - <b>Management:</b>
   - Reorganized and reoriented two decommissioned bureaus’ legacy personnel and assets towards a unified mission in direct support of Department of State communication strategy.
-  - Led establishment of and oversees two offices and a ~$30 million annual budget within Global Public Affairs (GPA) focused on audience and media research and analytics, worldwide; led and managed through two consecutive years of capacity-doubling and the units’ formal hierarchical elevation.
-  - Manages two offices’ operations and subordinate staff; schedules and prioritizes work operations; establishes overall policies, practices, goals; provides technical requirements and descriptions of work to be accomplished.
+  - Led establishment of and oversees two offices comprising a ~$30 million annual budget within Global Public Affairs (GPA) focused on audience and media research and analytics, worldwide; led and managed through two consecutive years of capacity-doubling and the units’ formal hierarchical elevation.
+  - Organized two offices’ operations and procurement processes; schedules and prioritizes work; establishes overall policies, practices, goals; provides technical requirements and descriptions of work to be accomplished.
 - <b>Skills and Specific Expertise:</b>
   - Has subject-matter expertise in, responsible for providing advice on international media markets and audience research strategy, as well as opportunities to integrate audience research into business strategy.
   - Responsible for development of and is final line editor for written analytic products presenting executive recommendations based on highly technical/scientific research and analysis processes.
