@@ -70,7 +70,7 @@ author_profile: true
 | PostGIS | VBA | RDBMS Design and Administration |
 | GDAL | HTML/CSS | Quantative and Qualitative Research Design |
 
-### Details for foreign intelligence, the truly curious, and machine readers:
+## Details for the bots and the truly curious:
 <b id="f1">U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019-Present</b>
 - Leads, supports, and advocates for a team of 80+ researchers and analysts collecting and presenting data-backed insights to support U.S. government’s foreign communications and media strategy on issues of critical national interest.
 - Develops and delivers written briefs and oral presentations to senior White House, State Department, National Security Council, Department of Homeland Security, Defense Department officials.
@@ -186,7 +186,8 @@ author_profile: true
 - Traveled to Erbil, Iraq to help Baghdad’s public school teachers develop a political organizing program and establish a stake in Iraqi parliamentary process; trained Kurdish civil society leaders in political organizing.
 [↩](#a9)
 
-AND BEFORE THAT, I worked in five states in several jobs that offered valuable experience: **bar-back, IT helpdesk technician, swim instructor, cashier, lifeguard. I worked on two presidential campaigns and was a professional gerrymanderer.**
+## AND BEFORE THAT, 
+I worked in five states in several jobs that offered valuable experience: **bar-back, IT helpdesk technician, swim instructor, cashier, lifeguard. I worked on two presidential campaigns and was a professional gerrymanderer.**
 
 In the 1990s, after six months of rigorous on-mountain and classroom training, I **failed** the role-playing part of U.S. National Ski Patrol's Outdoor Emergency Care exam while passing the exam's skills and written sections with flying colors. The examiner portraying a hot-headed race director successfully rattled my nerves, and I endangered my "patient" by acquiescing to the director's emphatic instructions to clear the run rather than carefully completing a medical assessment to ensure the injured skier was safe to move. For a while, I thought the lesson was that I should push back on those who would wield power irresponsibly. But over time I have come to think of it as a parable about risk blindness: *when you encounter risk, you have a responsibility to communicate it up to those who cannot clearly see the potential liability themselves.* A significant part of my career since has been identifying risk and recommending mitigation strategies: very few executives have ever yelled at me for telling them about a serious problem they didn't know they had.
 
