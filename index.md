@@ -2,6 +2,7 @@
 layout: single
 classes: landing
 author_profile: true
+disallow: true
 ---
 <!-- lukewp.github.io 
 # LUKE PETERSON
