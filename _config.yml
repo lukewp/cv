@@ -20,7 +20,7 @@ title                    : "Luke Peterson"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Luke Peterson"
-description              : "Luke leads teams into new territory and builds durable organizations: innovating, developing workable strategy, building and managing through execution, and establishing resilience."
+description              : "Luke leads teams into new territory and builds durable organizations: innovating, developing workable strategy, building and managing through execution, and establishing resilience. \n\n*Luke’s key professional strengths are his thoughtful leadership, attention to detail, consultative approach, and ability to solve complex problems. He adapts his approach to fit the need; he designs strategies and systems, and assembles teams to tackle complex challenges; he brokers new engagements through identification of new markets for tools and services; he harnesses emerging technology to transform reactive organizations into nimble, pro-active positions while managing risk.\n\nLuke’s expertise ranges from organizational design and coaching, to social science and strategic communications, to hard technical skills like geospatial database architecture and AI/machine learning."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "lukewp/lukewp.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
