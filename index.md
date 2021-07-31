@@ -54,15 +54,16 @@ author_profile: true
 - Presenter, National Reporting Through GIS, Analyst Institute Retreat, 6/2009
 - Keynote, Exploring the Obama Campaign’s Data Crunching Advantage, WebTrends Engage, 3/2009
 
-## TECHNICAL PROFICIENCIES
+## PROFICIENCIES
 
-### Concepts:  
+### Data Science and Related Concepts:  
 - Natural Language Processing 
 - Cluster and Factor Analysis
 - Regression Analysis
 - Quantitative and Qualitative Research Design
+- RDBMS Design and Administration
 
-### GIS:  
+<!--### GIS:  
 - ESRI
 - QGIS
 - Maptitude
@@ -75,13 +76,21 @@ author_profile: true
 - R
 - VBA
 - SPSS
-- HTML/CSS
+- HTML/CSS-->
 
 ### General/Business Tools:  
-- Microsoft and Google Office Suites
-- Adobe CS
-- Quickbooks
-- Windows, Mac, and Linux Administration (Native and Virtualized/Cloud Environments)
+- J.S. Bach-level Genius/Artist with the Microsoft and Google Office Suites
+- Functionally Competent with Adobe CS, Gimp, Audacity, and Final Cut
+- Hates Quickbooks
+- OmniOSient: Windows, Mac, and Linux (Native and Virtualized/Cloud Environments)
+
+| GIS: | Languages: | 
+| --- | --- |
+| ESRI | SQL |
+| QGIS | Python |
+| Maptitude | R | 
+| PostGIS | VBA |
+| GDAL | HTML/CSS |
 
 ### Details:
 <b id="f1">U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019-Present</b>
