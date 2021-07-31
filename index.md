@@ -81,16 +81,17 @@ author_profile: true
 
 ## Additional Details for the bots and the truly curious:
 <b id="f1">U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019-Present</b>
-- Leads, supports, and advocates for a team of 80+ researchers and analysts collecting and presenting data-backed insights to support and influence U.S. government’s foreign communications and media strategy on issues of critical national interest.
+- Serves as head of insights: Leads, supports, and advocates for a team of 80+ researchers and analysts collecting and presenting data-backed insights to support and influence U.S. government’s foreign communications and media strategy on issues of critical national interest.
 - Develops and delivers written briefs and oral presentations to senior White House, State Department, National Security Council, Department of Homeland Security, Defense Department officials. Distills and translates complicated research observations into executive recommendations.
 - Shapes long-term strategic communications and media plans supporting and influencing U.S. national foreign policy.
-- Responsible for $10m+ budget on multi-channel strategic marketing program: planning, executing, measuring impact of integrated marketing campaign efforts across mediums including search, display, native, social, and over-the-top digital video, broadcast radio, and out-of-home.
+- Responsible for $25m+ audience and marketing research, media analysis offices who help U.S. Government stakeholders understand overseas audiences and their information environments, and then develop integrated marketing and communications campaigns to reach, inform, and influence them.
+- Responsible for $10m+ multi-channel strategic marketing program and budget: planning, executing, measuring impact of integrated marketing campaign efforts across mediums including search, display, native, social, and over-the-top digital video, broadcast radio, and out-of-home.
 - Leads Department towards a proactive, audience-driven, policy impact-focused communications approach.
 - <b>Policy:</b>
-  - Hands-on research, marketing, and analytic support for U.S. government communications on breaking global issues including the outbreak of COVID-19; geopolitical and national security crises; highly-dynamic events like United Nations meetings and foreign trips for U.S. government principal figures.
+  - Hands-on research, marketing, and analytic support and ad hoc requests for U.S. government communications on breaking global issues  including the outbreak of COVID-19; geopolitical and national security crises; highly-dynamic events like United Nations meetings and foreign trips for U.S. government principal figures.
   - Led research, marketing, and analytic strategy and support for longer-term campaigns including climate change, COVID-19 recovery, advancing safe 5G telecommunications, the Central American immigration security crisis, Israeli-Palestinian relations, U.S.-Iran relations, U.S.-Venezuela relations, promotion of a Free-and-Open Indo-Pacific and enduring American values.
 - <b>Management:</b>
-  - Reorganized and reoriented two decommissioned bureaus’ legacy personnel and assets towards a unified mission in direct support of Department of State communication strategy.
+  - Managed through dynamic and changing environment to reorganize and reorient two decommissioned bureaus’ legacy personnel and assets towards a unified mission in direct support of Department of State communication strategy.
   - Led establishment of and oversees two offices comprising a ~$30 million annual budget within Global Public Affairs (GPA) focused on audience and media research and analytics, worldwide; led and managed through two consecutive years of capacity-doubling and the offices’ formal hierarchical elevation.
   - Organized two offices’ operations and procurement processes; serves as supervisory coach to subordinate managers; schedules and prioritizes work; establishes overall policies, practices, goals; provides technical requirements and descriptions of work to be accomplished.
 - <b>Skills and Specific Expertise:</b>
