@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Luke Peterson"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "(He/Him) \n\n- Builds resilient organizations \n- Leads teams into new terrain \n- Creates innovative strategies \n- Builds and manages through challenges and change \n\nLuke is highly adaptive, his strengths are thoughtful leadership, attention to detail, and understanding of complex problems. He has brokered new engagements through empathetic consultation, finding new applications and markets for tools and services; he harnesses emerging technology to adapt reactive organizations into nimble, pro-active positions while managing risk.\n\nLuke's wide-ranging expertise covers organizational design and change leadership, coaching, strategic communications, social science research, geospatial database architecture, and data science."
+  bio              : "(He/Him) \n\n- Builds resilient organizations \n- Creates innovative strategies \n- Leads through challenges and change \n\nLuke is highly adaptive, his strengths are thoughtful leadership, attention to detail, and understanding of complex problems. He has brokered new engagements through empathetic consultation, finding new applications and markets for tools and services; he harnesses emerging technology to adapt reactive organizations into nimble, pro-active positions while managing risk.\n\nLuke's wide-ranging expertise covers organizational design and change leadership, coaching, strategic communications, social science research, geospatial database architecture, and data science."
   location         : # "Washington"
   email            : "luke.peterson@gmail.com"
 #  links:
