@@ -65,7 +65,7 @@ sitemap: false
 - Presenter, Public Diplomacy in the Information Age, U.S. State Department Public Affairs Officers’ Conference, 11/2016
 - Panelist, Mobilizing Populations Towards Action, Fitbit Captivate 2015, 10/2015
 - Keynote, Making ‘Big Data’ Meaningful: Putting Analytics Into Action, PR/Social Media Measurement, 2/2014
-- Keynote, Exploring the Obama Campaign’s Data Crunching Advantage, WebTrends Engage, 3/2009
+- Keynote, [Exploring the Obama Campaign’s Data Crunching Advantage](http://www.prweb.com/releases/2009/03/prweb2247024.htm), WebTrends Engage, 3/2009
 
 ## AWARDS & RECOGNITION:
 - U.S. State Department Superior Honor Award, 9/2020
