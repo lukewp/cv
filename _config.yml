@@ -106,13 +106,13 @@ author:
   bio              : "(He/Him) \n\n- Builds resilient organizations \n- Creates innovative strategies \n- Leads through challenges and change \n\nLuke is highly adaptive, his strengths are his thoughtful leadership, attention to detail, and proficiency at developing creative solutions to complex problems. \n\nHe has brokered new engagements through empathetic consultation, finding new applications and markets for tools and services. He has advised government and business leaders facing critical challenges. He has harnessed emerging technologies to shift organizations into nimble, pro-active positions while managing risk.\n\nLuke’s wide-ranging expertise covers organizational design and change leadership, coaching, integrated marketing and communications, social science research, geospatial system design, and data science."
   location         : # "Washington"
   email            : "luke.peterson@gmail.com"
-#  links:
+  links:
 #    - label: "Email"
 #      icon: "fas fa-fw fa-envelope-square"
 #      # url: "mailto:your.name@email.com"
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      # url: "https://your-website.com"
+    - label: "PDF"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/lukewp/lukewp.github.io/blob/master/assets/Luke%20Peterson%20Resume%20-%20Full%20Details%2020210731.pdf"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      # url: "https://twitter.com/"
@@ -132,21 +132,21 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/lwp"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lukewp"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+#    - label: "GitLab"
+#      icon: "fab fa-fw fa-gitlab"
+#      # url:
+#    - label: "Bitbucket"
+#      icon: "fab fa-fw fa-bitbucket"
+#      # url:
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      # url:
 
 
 # Reading Files
