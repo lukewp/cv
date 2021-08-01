@@ -84,7 +84,7 @@ sitemap: false
 
 ## Additional Details for Robots and the Truly Curious:
 <b id="f1">U.S. DEPARTMENT OF STATE – Deputy Assistant Secretary, Global Public Affairs – 5/2019 - Present</b>
-- As Deputy Assistant Secretary for Research and Analytics, serves as Head of Marketing Insights for foreign-facing Public Affairs of the United States Government. 
+- As [Deputy Assistant Secretary for Research and Analytics](https://www.state.gov/biographies/luke-peterson), serves as Head of Marketing Insights for foreign-facing Public Affairs of the United States Government. 
 - Leads, supports, and advocates for a team of 80+ researchers and analysts collecting and presenting data-backed insights to support and influence U.S. government’s foreign communications and media strategy on issues of critical national interest.
 - Develops and delivers written briefs and oral presentations to senior White House, State Department, National Security Council, Department of Homeland Security, Defense Department officials. Distills and translates complicated research observations into executive recommendations.
 - Shapes long-term strategic communications and media plans supporting and influencing U.S. national foreign policy.
