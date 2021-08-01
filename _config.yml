@@ -110,7 +110,7 @@ author:
 #    - label: "Email"
 #      icon: "fas fa-fw fa-envelope-square"
 #      # url: "mailto:your.name@email.com"
-    - label: "PDF"
+    - label: "PDF Version"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/lukewp/lukewp.github.io/raw/master/assets/Luke%20Peterson%20Resume%20-%20Full%20Details%2020210731.pdf"
 #    - label: "Twitter"
